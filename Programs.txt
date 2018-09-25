@@ -1,0 +1,53 @@
+1. Write a program to read 2 numbers from keyboards and print sum
+
+2. Write a program to read employee data from keyboard and Print.
+Note : employee data contains eno,ename,esal,eaddress
+
+3. Write a program to find biggest of give 2 numbers from the command prompt?
+
+4. Write a program to find biggest of given 3 numbers from the command prompt?
+
+5. Write a program to find smallest of given 2 numbers?
+
+6. Write a program to check whether the given number is even or odd?
+
+7. Write a program to check whether the give number is in between 1 and 50?
+
+8. Write a program to take a single digit number from the keyboard and print its value in word?
+
+9. Write a program to check whether a number is negative, positive or zero.
+
+10. Write a program to check whether a number is divisible by 5 and 11 or not.
+
+11. Write a program to check whether a number is even or odd.
+
+12. Write a program to input week number and print week day.
+
+13. Write a program to input basic salary of an employee and calculate its Gross salary according to following:
+Basic Salary <= 10000 : HRA = 20%, DA = 80%
+Basic Salary <= 20000 : HRA = 25%, DA = 90%
+Basic Salary > 20000 : HRA = 30%, DA = 95%
+
+14. Write a program to calculate and print the Electricity bill of a given customer. The customer id., name and unit consumed by the user should be taken from the keyboard and display the total amount to pay to the customer.
+
+The charge are as follow :
+Unit       Charge/unit  
+upto 199       @1.20
+200 and above but less than 400  @1.50
+400 and above but less than 600  @1.80
+600 and above      @2.00
+
+If bill exceeds Rs. 400 then a surcharge of 15% will be charged and the minimum bill should be of Rs. 100/-.
+
+Test Data :
+Enter Customer ID : 1001
+Enter Customer Name : Reddy
+Enter Number of Units Consumed : 800
+
+Expected Output :
+Customer ID :1001
+Customer Name :Reddy
+unit Consumed :800
+Amount Charges @Rs. 2.00 per unit : 1600.00
+Surchage Amount : 240.00
+Net Amount Paid By the Customer : 1840.00
